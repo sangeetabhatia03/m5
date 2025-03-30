@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modifications Matter</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Modifications Matter</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/post/2025-03-30-about/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
+      <guid>http://localhost:1313/post/2025-03-30-about/</guid>
+      <description>&lt;p&gt;Modification of essential public services, whether intended or unintended, can have important consequences for all aspects of societal life. For example,&lt;/p&gt;&#xA;&lt;p&gt;Closing down a school may interrupt transmission of an infectious disease;&#xA;An extreme climate event may force temporary closure of health facilities in a region, altering healthcare seeking in the short- and long-term;&#xA;Closure of commuting routes through strikes can have direct and indirect economic consequences.&lt;/p&gt;&#xA;&lt;p&gt;Assessing the impact of service changes and disruptions requires multiple data sources, such as disease incidence, precipitation levels, or details of health facilities. Central to this analysis is having a detailed record of the service changes themselves. For example, assessing the effectiveness of school closures requires data on the specific schools affected, their locations, and the duration of closures. Conversely, evaluating the educational impact of these closures demands accurate records of when and where they occurred. Public health analyses of unplanned health facility closure also rely on knowing which facilities were affected and for how long.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Agenda</title>
+      <link>http://localhost:1313/post/2025-03-29-agenda/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
+      <guid>http://localhost:1313/post/2025-03-29-agenda/</guid>
+      <description>&lt;p&gt;Will confirm the agenda shortly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contacts</title>
+      <link>http://localhost:1313/post/2016-03-08-contact-details/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
+      <guid>http://localhost:1313/post/2016-03-08-contact-details/</guid>
+      <description>&lt;h3 id=&#34;sangeeta-bhatia&#34;&gt;Sangeeta Bhatia&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:sangeetabhatia03@gmail.com&#34;&gt;sangeetabhatia03@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
