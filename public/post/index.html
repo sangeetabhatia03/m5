@@ -720,7 +720,16 @@ Closure of commuting routes through strikes can have direct and indirect economi
 
 
 
+<script type="text/javascript">
+  var els = document.getElementsByClassName("post-preview");
+  Array.prototype.forEach.call(els, function (el) {
+    el.children[0].href = "";
+  });
 
+  var back = document.querySelector("li.previous a");
+  back.innerHTML = "\u{2190} Back";
+  back.href = "../../";
+</script>
 
 
     

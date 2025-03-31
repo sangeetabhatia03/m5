@@ -5,4 +5,13 @@ Or you can delete these file if you don't need it.
 <!-- for example, you could include some js libraries:
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.19.1/vis.js" integrity="sha256-HdIuWBZj4eftihsoDCJoMYjZi6aNVaw7YlUpzKT3ZxI=" crossorigin="anonymous"></script>
 -->
+<script type="text/javascript">
+  var els = document.getElementsByClassName("post-preview");
+  Array.prototype.forEach.call(els, function (el) {
+    el.children[0].href = "";
+  });
 
+  var back = document.querySelector("li.previous a");
+  back.innerHTML = "\u{2190} Back";
+  back.href = "../../";
+</script>
