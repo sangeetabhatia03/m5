@@ -7,4 +7,4 @@ tags:
 
 ### Sangeeta Bhatia
 
-sangeetabhatia03@gmail.com
+s.bhatia@imperial.ac.uk
